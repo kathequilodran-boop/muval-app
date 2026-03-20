@@ -45,3 +45,15 @@ Soy estudiante del área de Tecnologías de la Información, en constante aprend
 ## Enlace profesional
 LinkedIn:  
 [Mi perfil de LinkedIn](https://www.linkedin.com/in/katherine-quilodran-parra-b96203373/)
+
+## 🧪 Ejemplo de código
+
+```python
+def bienvenida(nombre):
+    return f"Bienvenida {nombre} a MuVal - Mujer Valiente "
+
+```md
+##  Próximas mejoras
+- Desarrollo de interfaz gráfica
+- Incorporación de nuevas funcionalidades
+- Evolución del proyecto a una aplicación completa
