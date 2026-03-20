@@ -57,3 +57,7 @@ def bienvenida(nombre):
 - Desarrollo de interfaz gráfica
 - Incorporación de nuevas funcionalidades
 - Evolución del proyecto a una aplicación completa
+
+```python
+def bienvenida(nombre):
+    return f"Bienvenida {nombre} a MuVal - Mujer Valiente "
